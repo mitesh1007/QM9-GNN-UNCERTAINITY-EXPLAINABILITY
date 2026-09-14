@@ -10,3 +10,4 @@ results/generated/
 *.ckpt
 .env
 .vscode/
+data/qm9/
